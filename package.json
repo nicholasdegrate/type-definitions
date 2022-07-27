@@ -1,0 +1,8 @@
+{
+    "name": "type-definitions",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/nicholasdegrate/type-definitions.git",
+    "author": "nicholasdegrate <nicholasdegrate@gmail.com>",
+    "license": "MIT"
+}
